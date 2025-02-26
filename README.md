@@ -13,9 +13,7 @@
 
 ## 📫 Contacto
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme:
-
-- **Email:** [tu-email@example.com](mailto:rafaelbustosmaldonado@gmail.com)
-- **LinkedIn:** [Tu Nombre en LinkedIn](https://www.linkedin.com/in/rafa3lbm/)
+- **Email:** [rafaelbustosmaldonado@gmail.com](mailto:rafaelbustosmaldonado@gmail.com)
 
 ---
 
