@@ -15,4 +15,4 @@ Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contacta
 
 ---
 
-¡Gracias por tu visitar! Espero que encuentres interesante mi trabajo y estoy abierto a nuevas oportunidades y colaboraciones. 😊
+¡Gracias por tu visita! Espero que encuentres interesante mi trabajo y estoy abierto a nuevas oportunidades y colaboraciones. 😊
