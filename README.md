@@ -1,6 +1,7 @@
 # Rafael Bustos Maldonado
-**Diseñador gráfico profesional**<br>
-👋 Con 9 años de experiencia, especializado en branding, publicidad, Editor de video, explorando la fotografía y el diseño web front-end.<br>Actualmente aprendiendo sobre GitHub y mejorando mi portafolio.
+**Diseñador gráfico multidisciplinario**<br>
+Con 9 años de experiencia en branding, marketing, diseño UX/UI, producción audiovisual y desarrollo web frontend.
+Actualmente aprendo programación, PHP y Python para expandirme al backend. Siempre en búsqueda de proyectos innovadores y nuevos retos. 🚀
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 
@@ -14,4 +15,4 @@ Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contacta
 
 ---
 
-¡Gracias por visitar mi repositorio! Espero que encuentres interesante mi trabajo y estoy abierto a nuevas oportunidades y colaboraciones. 😊
+¡Gracias por tu visitar! Espero que encuentres interesante mi trabajo y estoy abierto a nuevas oportunidades y colaboraciones. 😊
