@@ -11,7 +11,7 @@ Actualmente aprendo programación, PHP y Python para expandirme al backend. Siem
 
 #
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme:
-- **Email:** [rafaelbustosmaldonado@gmail.com](mailto:rafaelbustosmaldonado@gmail.com)
+- **Email:** [contacto@rafa3lbm.com](mailto:contacto@rafa3lbm.com)
 
 ---
 
